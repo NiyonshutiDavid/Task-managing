@@ -37,7 +37,13 @@ To run the application locally, make sure you have Docker installed on your syst
 
 ### Docker Image
 
+You can view Image from DockerHub, DockerHub Image:https://hub.docker.com/repository/docker/niyonshutidavid/task-managing/general 
 You can also pull the Docker image from Docker Hub:
 
 ```bash
 docker pull niyonshutidavid/task-managing:latest
+```
+
+### Presentation slides
+
+You can view the slides using canva. Here is the Link:https://www.canva.com/design/DAGBMpjA9Q8/O7ISAnDL92KpwAPu2xgMUg/edit?utm_content=DAGBMpjA9Q8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
