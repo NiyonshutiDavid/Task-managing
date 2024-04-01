@@ -24,13 +24,13 @@ To run the application locally, make sure you have Docker installed on your syst
 3. Build the Docker image:
 
     ```bash
-    docker build -t web_app .
+    docker build -t task-managing:latest .
     ```
 
 4. Run the Docker container:
 
     ```bash
-    docker run -d -p 3000:3000 web_app
+    docker run -d -p 3000:3000 task-managing:latest
     ```
 
 5. Access the application in your web browser at http://localhost:3000.
@@ -40,4 +40,4 @@ To run the application locally, make sure you have Docker installed on your syst
 You can also pull the Docker image from Docker Hub:
 
 ```bash
-docker pull niyonshutidavid/web_app
+docker pull niyonshutidavid/task-managing:latest
