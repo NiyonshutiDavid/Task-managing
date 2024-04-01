@@ -38,7 +38,7 @@ To run the application locally, make sure you have Docker installed on your syst
 ### Docker Image
 
 You can view Image from DockerHub, DockerHub Image:https://hub.docker.com/repository/docker/niyonshutidavid/task-managing/general 
-You can also pull the Docker image from Docker Hub:
+, and you can also pull the Docker image from Docker Hub:
 
 ```bash
 docker pull niyonshutidavid/task-managing:latest
